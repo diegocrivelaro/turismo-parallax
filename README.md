@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://diegocrivelaro.github.io/turismo-parallax/" target="_blank"><b>CLIQUE ME</b><a>
+  <a href="https://diegocrivelaro.github.io/turismo-parallax/"><b>CLIQUE ME</b><a>
 </p>
 
 ---
